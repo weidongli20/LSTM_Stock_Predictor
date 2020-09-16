@@ -8,9 +8,16 @@ Due to the volatility of cryptocurrency speculation, investors will often try to
 
 > Which model has a lower loss?
 >
+> LSTM Stock Predictor Using Closing Prices has a lower loss
+>
 > Which model tracks the actual values better over time?
 >
+> LSTM Stock Predictor Using Closing Prices tracks the actual values better
+>
 > Which window size works best for the model?
+>
+> 10
+>
 
 - - -
 
